@@ -1,3 +1,3 @@
 # Demo
 
-First time trying out Github
+First time trying out Github.
