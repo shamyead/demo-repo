@@ -6,4 +6,6 @@ First time trying out Github.
 
 Watching freecodecamp on YouTube!
 
-Hello
+## Local Development
+
+1. Open index.html in your browser
